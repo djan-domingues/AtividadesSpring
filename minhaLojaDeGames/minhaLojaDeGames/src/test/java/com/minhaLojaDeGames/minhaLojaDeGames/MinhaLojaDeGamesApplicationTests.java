@@ -1,10 +1,10 @@
-package com.projetoIntegrador.projetoIntegrador;
+package com.minhaLojaDeGames.minhaLojaDeGames;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjetoIntegradorApplicationTests {
+class MinhaLojaDeGamesApplicationTests {
 
 	@Test
 	void contextLoads() {

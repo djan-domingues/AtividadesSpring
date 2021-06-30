@@ -1,13 +1,13 @@
-package com.projetoIntegrador.projetoIntegrador;
+package com.minhaLojaDeGames.minhaLojaDeGames;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetoIntegradorApplication {
+public class MinhaLojaDeGamesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetoIntegradorApplication.class, args);
+		SpringApplication.run(MinhaLojaDeGamesApplication.class, args);
 	}
 
 }
